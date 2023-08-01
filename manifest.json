@@ -1,0 +1,18 @@
+{
+  "version": "debugMode",
+  "project": "worms",
+  "module": "admin",
+  "singleSpaEntry": {
+    "entries": [
+      "/arena-editor/static/js/chunk-vendors.64ae6552.js",
+      "/arena-editor/static/css/singleSpaEntry.a770a6bc.css",
+      "/arena-editor/static/js/singleSpaEntry.ae6b26eb.js"
+    ],
+    "chunks": [
+      "/arena-editor/static/js/node_modules_react_index_js.eeb27c38.js",
+      "/arena-editor/static/js/node_modules_react-dom_index_js.4f74ade7.js",
+      "/arena-editor/static/js/node_modules_react-redux_es_index_js.2a46157e.js",
+      "/arena-editor/static/js/node_modules_redux_es_redux_js.cb68eeda.js"
+    ]
+  }
+}
